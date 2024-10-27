@@ -31,5 +31,5 @@ foreach döngüsünü daha detaylı incelediğim bu projede, basit bir sınav si
 <hr>
 
 <h3>✔️ Proje 8: Metotlar</h3>
-Kullanıcıdan alınan veriyi işleyerek geriye değer döndüren metotlar yazdım. Fonksiyonlar aracılığıyla karmaşık işlemleri modüler bir şekilde gerçekleştirerek kodun tekrar kullanılabilirliğini artırdım. 
+Bu projede, kod yapısını daha modüler ve okunabilir hale getirmek için fonksiyonlar oluşturmayı öğrendim. Parametre alan ve belirli işlemleri yerine getirerek sonuç döndüren metotlar oluşturdum. Metotlar sayesinde, tekrarlayan kod bloklarını daha düzenli ve tekrar kullanılabilir hale getirmeyi başardım. 
 <hr>
