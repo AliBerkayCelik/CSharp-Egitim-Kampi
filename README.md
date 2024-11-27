@@ -43,7 +43,8 @@ Bu projede, veritabanı ile iletişim kurarak temel CRUD (Ekleme, Okuma, Güncel
 <hr>
 
 <h3>✔️ Proje 11:İstatistik Panleli(EFProject)</h3>
-![istatistik](https://github.com/user-attachments/assets/22848307-160d-4704-98d9-32d490b62cfa)
+
+![istatistik](https://github.com/user-attachments/assets/f98dfd80-ccbc-43c8-801f-0fa290903033)
 
 
 Bir seyahat veritabanıyla çalışan bir istatistik paneli geliştirme üzerine yoğunlaştım. Bu projede, Entity Framework kullanarak veritabanı sorgulama işlemlerini gerçekleştirdim ve sonuçları görselleştirerek Windows Forms üzerinden kullanıcıya sundum. Panel, seyahat firmalarının ihtiyaç duyabileceği temel istatistiklerin dinamik bir şekilde izlenmesini hedefledi.
