@@ -1,5 +1,5 @@
 <h1>C# EĞİTİM KAMPI</h1>
-Bu repo, Murat Yücedağ’ın rehberliğinde düzenlenen C# Eğitim Kampı sürecinde tamamladığım ilk 8 projeyi kapsamaktadır. Her bir proje, programlama temellerini anlamamı sağlayarak kodlama yetkinliğimi artırmama katkıda bulundu.
+Bu repo, Murat Yücedağ’ın rehberliğinde düzenlenen C# Eğitim Kampı sürecinde tamamladığım ilk 11 projeyi kapsamaktadır. Her bir proje, programlama temellerini anlamamı sağlayarak kodlama yetkinliğimi artırmama katkıda bulundu.
 <hr>
 <h3>✔️ Proje 1: Merhaba Dünya</h3>
 Bu projede C# programının temel yapısını inceleyerek Console.WriteLine() metodunu kullandım ve konsola çıktı verme işlemlerini öğrendim. Ayrıca int ve string temel veri türlerinde değişkenler oluşturmayı öğrendim.
